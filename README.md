@@ -1,5 +1,7 @@
 # AI Tools Benchmark With Next and Supabase
 
+**Live demo:** [https://ai-tools-benchmark.vercel.app/](https://ai-tools-benchmark.vercel.app/)
+
 A modern web app to **search**, **catalog**, and **compare** AI tools (ChatGPT, Gemini, Claude, Midjourney, and more). Built with **Next.js** and **Supabase**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
